@@ -1,0 +1,10 @@
+## Visual Studio and .NET build outputs
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.nupkg
+packages/
